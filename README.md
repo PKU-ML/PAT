@@ -73,9 +73,8 @@ If you find this useful in your research, please consider citing:
 mo2024fight,
 title={Fight Back Against Jailbreaking via Prompt Adversarial Tuning},
 author={Yichuan Mo and Yuji Wang and Zeming Wei and Yisen Wang},
-booktitle={ICLR 2024 Workshop on Secure and Trustworthy Large Language Models},
-year={2024},
-url={https://openreview.net/forum?id=q0PbfNwLBq}
+booktitle={NeurIPS},
+year={2024}
 }
 ```
 
