@@ -2,7 +2,7 @@
 
 This is the official repository for "[Fight Back Against Jailbreaking via Prompt Adversarial Tuning](https://https://arxiv.org/abs/2402.06255)" by [Yichuan Mo](https://scholar.google.com/citations?user=xvSYG1gAAAAJ&hl=zh-CN), [Yuji Wang](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AKKJWFd9ykZr_3fxkwY21YmodnniSXqWYfOGdeIOEyc6XwS84wlxIwvlCM-Y4Hh_zVrYSzJvJBVVWl8BVLpqMwjRVBw&user=MdVoyiYAAAAJ), [Zeming Wei](https://weizeming.github.io/), and [Yisen Wang](https://yisenwang.github.io/). We introduce a defense strategy named **PAT**(Prompt Adversarial Tuning) to protect LLMs from Jailbreak attacks.
 
-![PAT](PAT.pdf)
+![PAT](PAT.png)
 
 ## Table of Contents
 
